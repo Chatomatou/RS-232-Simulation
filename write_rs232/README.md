@@ -1,12 +1,12 @@
 # HOW TU USE
 
 # Compilation 
-1.Download make / sudo apt-get install make or https://sourceforge.net/projects/gnuwin32/
-2.Add to path 
-3.Open Powersheel / CMD
-4.cd directory
-5.make all 
-6.Run !!!
+-Download make / sudo apt-get install make or https://sourceforge.net/projects/gnuwin32/
+-Add to path 
+-Open Powersheel / CMD
+-cd directory
+-make all 
+-Run !!!
 
 # How to run 
 ```
