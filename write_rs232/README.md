@@ -13,7 +13,6 @@
     ./write_rs232 <string> <parity> <stop>
 ```
 
-#Argument possible
 |                |PARITY|STOP|
 |----------------|-------------------------------|-----------------------------|
 ||`RS232_PARITY_WITHOUT`            |`RS232_STOP_BIT_ONE`
