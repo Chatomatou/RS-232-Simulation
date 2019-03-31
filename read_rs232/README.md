@@ -14,11 +14,15 @@
 ```
 
 #Argument possible
+
 |                |PARITY|STOP|
 |----------------|-------------------------------|-----------------------------|
 ||`RS232_PARITY_WITHOUT`            |`RS232_STOP_BIT_ONE`
 ||`RS232_PARITY_PEER`            |`RS232_STOP_BITS_TWO`            
 ||`RS232_PARITY_ODD`|
+
+
+##
 
 
 # By Biczo Samuel
