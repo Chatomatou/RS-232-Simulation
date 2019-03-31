@@ -20,7 +20,4 @@
 ||`RS232_PARITY_ODD`|
 
 
-##  ARRAY ARGMENT POSSIBLE
-
-
 # By Biczo Samuel
