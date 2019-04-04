@@ -12,7 +12,7 @@ void readMessage(const char* str, const RS232_Parity parity, const RS232_Stop st
     char* cpy = NULL;
     char* split = NULL;
 
-    cpy = malloc(sizeof(str));
+    cpy = malloc(sizeof(char)* strlen(str));
 
     if(cpy == NULL)
     {
