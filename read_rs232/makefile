@@ -9,7 +9,7 @@ all: $(EXEC)
 
 # Génére le .exe (Windows) ou le elf (linux)
 $(EXEC): $(OBJ)
-	$(CC) -o $@ $^  
+	$(CC) -o $@ $^ -lm
 # Création des fichier .o
 %.o: %.c 
 	$(CC) -o $@ -c $< $(CFLAGS)
